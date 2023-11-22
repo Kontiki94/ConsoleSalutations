@@ -1,0 +1,14 @@
+C:\Users\hassa\source\repos\ConsoleSalutations\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+C:\Users\hassa\source\repos\ConsoleSalutations\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+C:\Users\hassa\source\repos\ConsoleSalutations\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+C:\Users\hassa\source\repos\ConsoleSalutations\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+C:\Users\hassa\source\repos\ConsoleSalutations\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+C:\Users\hassa\source\repos\ConsoleSalutations\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hassa\source\repos\ConsoleSalutations\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\hassa\source\repos\ConsoleSalutations\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\hassa\source\repos\ConsoleSalutations\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\hassa\source\repos\ConsoleSalutations\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+C:\Users\hassa\source\repos\ConsoleSalutations\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+C:\Users\hassa\source\repos\ConsoleSalutations\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+C:\Users\hassa\source\repos\ConsoleSalutations\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\hassa\source\repos\ConsoleSalutations\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
